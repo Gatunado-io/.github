@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="https://raw.githubusercontent.com/Gatunado-io/.github/main/assets/logo.png" width="120" alt="Gatunado Logo"/>
+<img src="https://raw.githubusercontent.com/Gatunado-io/.github/main/assets/logo.png" width="400" alt="Gatunado Logo"/>
 
 # GATUNADO.
 
